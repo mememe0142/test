@@ -15,6 +15,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WhyZM5n.png" group-title="REDBOX USA",CONtv Anime
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crackle" tvg-logo="https://i.imgur.com/XAQpMY6.png" group-title="REDBOX USA",Crackle TV
+http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Docurama" tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22764/electricnow/logo_20191212_183017.png" group-title="REDBOX USA",DocuRAMA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-docuramaA/CDN/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/cN4ESSg.png" group-title="REDBOX USA",Dove Channel
