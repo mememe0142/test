@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml" url-tvg="https://i.mjh.nz/PlutoTV/mx.xml" refresh="3600"
-#EXTINF:-1 tvg-name="************** MX PLUTO *********" tvg-logo="",************** MX  PLUTO  *********
+#EXTINF:-1 tvg-name="************** MX PLUTO *********" group-title="MX PLUTO" tvg-logo="https://i.imgur.com/O8x5LLR.jpg",************** MX PLUTO *********
 https://
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="MX PLUTO",Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
