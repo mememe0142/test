@@ -6,6 +6,18 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
+Saturday, 27 February 2021:
+
+NEW: MX01_MEXICO
+NEW: adn40, Alcarria TV, Canal 10, Canal Catorce, Canal Once Internacional, Claro Sports, Hipodromo de las Americas, Milenio TV, Multimedios Guadalajara, Multimedios Laguna, Multimedios Monterrey, MVM Noticias, RCG 2 Saltillo, RCG 3 Saltillo, RTQ Queretaro, Sipse TV Cancun, TeleFormula, Telemax, TVMAS
+
+MX02_MEXICO_Pluto
+Edit first line, add flag of mexico
+
+DE01_GERMANY
+DE02_GERMANY_Etc
+Add/Edit first line
+
 Friday, 26 February 2021:
 
 US08_USA_Redbox - Thanks to CHJ85
