@@ -6,6 +6,31 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
+Sunday, 26 February 2021:
+
+ALL M3U´s!
+Added group-title in first line
+Added  missing flag
+Changed some group names wit two names. For example Country + second name (USA PLUTO)
+Changed Musik to Music ;-)
+
+Also changed today:
+
+DE01_GERMANY
+Name corected
+
+HU01_HUNGARY - Thanks to Zhoro-111 
+Added: ATV, MUSIC +
+
+MX01_MEXICO
+Change text: adn40 (Partly geo-blocked)
+
+US01_USA
+Added: Celebrity Scene TV, Sports TV Plus
+
+US16_USA_GINIKO
+Added: Captiva TV
+
 Saturday, 27 February 2021:
 
 Many thanks for the donations! :-) Greetings to Brazil and UK!
