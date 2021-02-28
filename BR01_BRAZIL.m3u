@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** BRAZIL ************" group-title="BRAZIL",****************** BRAZIL ************
+#EXTINF:-1 tvg-name="**************** BRAZIL ************" tvg-logo="https://i.imgur.com/4IRPTyM.png" group-title="BRAZIL",**************** BRAZIL ************
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXwyj7S.png" group-title="BRAZIL",98 Live
 https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8

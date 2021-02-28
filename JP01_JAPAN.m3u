@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************* JAPAN **********",********** JAPAN **********
+#EXTINF:-1 tvg-name="************* JAPAN **********" tvg-logo="https://i.imgur.com/RCEdG3K.png" group-title="JAPAN",********** JAPAN **********
 plugin://
 #EXTINF:-1 tvg-id="" tvg-name="ANN News" tvg-logo="https://i.imgur.com/WXjmhdZ.jpg" group-title="JAPAN",ANN News
 plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks

@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="*************** USA GALXY TV ***********" tvg-logo="https://i.imgur.com/oPnzAPC.png",************** USA GALXY TV ***********
+#EXTM3UEXTINF:-1 tvg-name="************* USA GALXY TV ***********" group-title="USA GALXY TV" tvg-logo="https://i.imgur.com/tgE1wKg.jpg",************** USA GALXY TV ***********
 https://
 #EXTINF:-1 tvg-id="" tvg-name="Galxy TV" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="USA GALXY TV",Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8

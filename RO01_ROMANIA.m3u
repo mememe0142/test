@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** ROMANIA ***********" tvg-logo="",***************** ROMANIA ***********
+#EXTINF:-1 tvg-name="**************** ROMANIA ***********" group-title="ROMANIA" tvg-logo="https://i.imgur.com/ufOC17d.png",*************** ROMANIA ***********
 https://
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8

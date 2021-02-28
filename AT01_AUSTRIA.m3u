@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** AUSTRIA ************" tvg-logo="https://i.imgur.com/RqwwAU5.png",****************** AUSTRIA ************
+#EXTINF:-1 tvg-name="****************** AUSTRIA ************" group-title="AUSTRIA" tvg-logo="https://i.imgur.com/RqwwAU5.png",****************** AUSTRIA ************
 https://
 #EXTINF:-1 tvg-name="Antenne Vorarlberg (Webradio)" tvg-id="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="AUSTRIA",Antenne Vorarlberg (Webradio)
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8 

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="************* GREECE **********",********** GREECE **********
+#EXTINF:-1 tvg-name="************* GREECE **********" tvg-logo="https://i.imgur.com/bn9XpG5.png" group-title="GREECE",********** GREECE **********
 https://
 #EXTINF:-1 tvg-id="Alert" tvg-name="Alert" tvg-logo="https://i.imgur.com/plW8kkT.png" group-title="GREECE",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8

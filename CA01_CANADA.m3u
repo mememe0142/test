@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="******************* CANADA ************",******************* CANADA ************
+#EXTINF:-1 tvg-name="************** CANADA ************" tvg-logo="https://i.imgur.com/XO7BLqf.png" group-title="CANADA",************** CANADA ************
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="CANADA",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8

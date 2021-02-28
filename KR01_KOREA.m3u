@@ -1,7 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="****************** KOREA ************",****************** KOREA ************
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="************** KOREA ************" group-title="KOREA" tvg-logo="https://i.imgur.com/3lx0R7g.png",************** KOREA ************
+http://
 #EXTINF:-1 tvg-name="KCTV - Nordkorea" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/aYmkkM2.png",KCTV - Nordkorea
 plugin://plugin.video.youtube/play/?video_id=wSGVaSDgkdY
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/tJ8GRqi.png",All the K-Pop
@@ -30,7 +29,5 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/gljQEfD.png",KBS World
 plugin://plugin.video.youtube/play/?video_id=4gwqZYZ-OSw
-#EXTINF:-1 tvg-name="SBS News" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/Gv7Ajkd.jpg",SBS News
-plugin://plugin.video.youtube/play/?video_id=0uwK35Go394
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png" group-title="KOREA",YTN
 http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="****************** ISRAEL ************" tvg-logo="https://i.imgur.com/IZCtGmD.png",****************** ISRAEL ************
+#EXTINF:-1 tvg-name="**************** ISRAEL ************" group-title="ISRAEL" tvg-logo="https://i.imgur.com/IZCtGmD.png",**************** ISRAEL ************
 http://
 #EXTINF:-1 tvg-id="" tvg-name="Hala TV Israel" tvg-logo="https://i.imgur.com/iZ6qgDg.png" group-title="ISRAEL",Hala TV Israel
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8

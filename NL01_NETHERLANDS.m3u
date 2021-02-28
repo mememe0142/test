@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="**************** NETHERLANDS ***********",**************** NETHERLANDS ***********
+#EXTINF:-1 tvg-name="************** NETHERLANDS ***********" tvg-logo="https://i.imgur.com/9sNF9uX.png" group-title="NETHERLANDS",************** NETHERLANDS ***********
 https://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="NETHERLANDS",BNR Nieuwsradio (Webradio)
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
@@ -15,7 +15,7 @@ http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8
 #EXTINF:-1 tvg-id="L1 TV NL" tvg-name="L1 Limburg" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="NETHERLANDS",L1 Limburg
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS;MUSIK",GO-RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zAFt893.png" group-title="NETHERLANDS",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hG2k4QL.png" group-title="NETHERLANDS",Meer TV
 http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8

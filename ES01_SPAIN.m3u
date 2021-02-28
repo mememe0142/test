@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml" refresh="3600"
-#EXTINF:-1 tvg-name="************* SPAIN **********",********** SPAIN **********
+#EXTINF:-1 tvg-name="************* SPAIN **********" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",********** SPAIN **********
 http://
 #EXTINF:-1 tvg-name="101 Tele Antequera" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="SPAIN",101 Tele Antequera
 https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
