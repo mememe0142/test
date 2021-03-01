@@ -6,60 +6,13 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Sunday, 26 February 2021:
+Monday, 1 March 2021:
 
-ALL M3U´s!
-Added group-title in first line
-Added  missing flag
-Changed some group names wit two names. For example Country + second name (USA PLUTO)
-Changed Musik to Music ;-)
+YZ001_MUSIC
+Added country in name, for example (FR)
+Removed dead streams: Awka, Black Music Artist TV, TV Exitos HD
 
-Also changed today:
+US10_USA_Stirr_Cities
+Group name corrected to USA STIRR CITY
 
-DE01_GERMANY
-Name corected
-
-HU01_HUNGARY - Thanks to Zhoro-111 
-Added: ATV, MUSIC +
-
-MX01_MEXICO
-Change text: adn40 (Partly geo-blocked)
-
-US01_USA
-Added: Celebrity Scene TV, Sports TV Plus
-
-US16_USA_GINIKO
-Added: Captiva TV
-
-Saturday, 27 February 2021:
-
-Many thanks for the donations! :-) Greetings to Brazil and UK!
-
-UK01_UNITED_KINGDOM
-Added: Bloomberg+ 4K, CNN Int. (UK), Failarmy, Mav TV, Spark TV 
-
-NEW: MX01_MEXICO
-NEW: adn40, Alcarria TV, Canal 10, Canal Catorce, Canal Once Internacional, Claro Sports, Hipodromo de las Americas, Milenio TV, Multimedios Guadalajara, Multimedios Laguna, Multimedios Monterrey, MVM Noticias, RCG 2 Saltillo, RCG 3 Saltillo, RTQ Queretaro, Sipse TV Cancun, TeleFormula, Telemax, TVMAS
-
-MX02_MEXICO_Pluto
-Edit first line, add flag of mexico
-
-DE01_GERMANY
-DE02_GERMANY_Etc
-Add/Edit first line
-
-Friday, 26 February 2021:
-
-US08_USA_Redbox - Thanks to CHJ85
-Added Crackle TV
-
-IT01_ITALY - Thanks to musuruan
-Added Rete 7 
-
-My updates:
-
-HU01_HUNGARY
-NEW: 1Music Hungary, Balaton TV, Bonum TV, Budakalasz, Duna TV Hungary, Duna World, H!T Music HU, Halom TV, Hatoscsatorna, Komlos TV, M1 Hungary, M2 Hungary, M4 Sport Hungary, M5 Hungary, Ozdi Varosi TV, Pannon RTV, TV7 Bekescsaba, VTV Füzesabony,
-
-YZ001_MUSIC - NEU
-NEW: Muzzik AMVA 2020 Serbia, Muzzik Gen Z Serbia,Muzzik OKK Serbia
+:-)
