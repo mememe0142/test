@@ -6,13 +6,15 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Monday, 1 March 2021:
+Thuesday, 2 March 2021:
 
-YZ001_MUSIC
-Added country in name, for example (FR)
-Removed dead streams: Awka, Black Music Artist TV, TV Exitos HD
+There is the new ES03_SPAIN_YOWITV! The streams in the new m3u you can watch also in the homepage YOWI TV.
 
-US10_USA_Stirr_Cities
-Group name corrected to USA STIRR CITY
+ES03_SPAIN_YOWITV
+NEW: 3/24, 8 La Marina TV, Campiña Sur TV, Canal 45 Andujar, Canal Diocesano, Dejate de Historias, Distrito TV Madrid, DOTB, Hermes TV, Imas TV, Lancelot TV, Lleida Televisio, TEF, Tele Aranda, TeleSur Madrid, Television de San Vicente, TeVe4, TV Familia, TVL Teleganes
+
+ES01_SPAIN
+Removed dead streams: Canal 10 Emporda, Noroeste TV, OndaCadiz.TV, Parlamento de Navarra, RTV Vida España, Tele 7, TV Ferrol
+Moved to new ES03_SPAIN_YOWITV:  Campiña Sur TV, Canal 45 Andujar, Déjate de Historias TV, Distrito TV Madrid, DOTB, Hermes TV, TEF, TeleSur Madrid, Television Aranda, Television de San Vicente, TeVe4, TVL Teleganes,
 
 :-)
