@@ -6,28 +6,20 @@ Some really bad guys have been really pissing me off lately so my repo wasn't av
 
 If you like my M3U's, I am very happy about a small donation, you can find it in the readme below in my repository
 
-Wednesday, 3 March 2021:
+Thursday, 4 March 21_
 
-Today we have a lot of new things for the friends from Greece or for those who like their streams! :-)
+HU01_HUNGARY - Thanks to Zhoro-111
+Change stream address: MUSIC +
 
-New music streams - Special thanks to @Zhoro-111! :-)
+LT01_LITHUANIA - Thanks to spil99
+Removed, wrong country: ETV, ETV2, ETV+
 
-YZ001_MUSIC
-Added: CANNALI TV (GR), MY RADIO TV (GR), NRG TV (GR), PANIK TV (GR), TILEMOUSIKI (GR)
+YZ001_MUSIC 
+Added: Chau TV (LV)
+Corrected address: Baraza Music TV (GR)
 
-I add also here some music streams from GR01_GREECE to YZ001_MUSIC :-)
-Added: Baraza TV Classic Hits, Baraza TV Greek Music Hits, Magic TV (GR), NG RADIO (GR), Reload Play (GR), Xalastra TV (GR)
+LV01_LATVIA
+Removed: LTV1 (GEO-Blocked)
+Some changes, streams, logos
 
-GR01_GREECE
-Added: Best TV, EPT 1, EPT 2, Nea TV, Smile, Skai TV, Star, TV100, TV Rodopi
-Removed dead streams: Corfu TV, Diktyo 1, Montreal Greek TV, Top Channel, TRT TV
-
-ES03_SPAIN_YOWITV
-Corrected group names for some entries
-
-We're keeping an eye on this post too! Let's see how long it will take until my new streams appear there !!!
-
-https://www.vuplus-support.org/wbb4/index.php?thread/142192-astra-19-2e-settings-free-iptv-ipradio-ipwebcam/&pageNo=2
-
-;-)
-
+:-)
