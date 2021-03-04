@@ -4,9 +4,17 @@
 # Countries
 Free legally receivable IPTV channels as .m3u for Kodi. :-)
 
-IMPORTANT! ONLY CREATE A FORK IF YOU WANT TO WORK WITH ME AND NOT ONLY TO ENRICH YOUR GITHUB ACCOUNT!
+THE FOLLOWING RULES MUST BE OBSERVED:
 
-The lists work fine with me in the IPTV Simple Client from Kodi. To automatically create the individual lists
+1. ONLY CREATE A FORK IF YOU WANT TO WORK WITH ME AND NOT ONLY TO ENRICH YOUR GITHUB ACCOUNT
+2. ALL M3U`s ARE INTENDED FOR PRIVATE USE ONLY
+3. IT IS NOT ALLOWED, SEND ME ILLGEGALE STREAMS VIA PULL REQUEST OR POST HERE IN MY REPO
+4. USE FOR COMMERCIAL PURPOSES IS NOT PERMITTED
+5. DISTRIBUTING OR POSTING MY LISTS IN FORUMS, HOMEPAGES OR IN SOCIAL NETWORKS IS NOT PERMITTED
+
+THE ONLY PREVIOUS PERMISSION TO USE MY M3U'S FOR OTHER PURPOSES HAS BEEN GIVEN TO THE LINUX MINT-TEAM (HYPNOTIX APP).
+
+The lists work fine with me in the IPTV Simple Client from Kodi or the VLC player. To automatically create the individual lists
 to one list, i use the ADD-On IPTV-Merge from Matt Huisman. ;-) You find this great Add-On here:
 
 https://www.matthuisman.nz/2019/02/iptv-merge-kodi-add-on.html
@@ -32,8 +40,6 @@ My ZZ_PLAYLIST_ALL_TV is also used in the pre-configuration of the new Hypnotix 
 https://itsfoss.com/hypnotix-iptv-app/
 
 Also important!
-
-I keep seeing forks that are ancient. I hate ancient forks. If you fork my repo, keep it up to date too. It's your job to take care of it, not mine. ;-) 
 
 I DO NOT GIVE SUPPORT FOR OLD AND UNKEMPT FORKS!
 
