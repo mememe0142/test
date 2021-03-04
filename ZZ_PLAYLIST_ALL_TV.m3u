@@ -4956,18 +4956,16 @@ https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 #EXTINF:-1 tvg-name="*************** LATVIA  ***********" group-title="LATVIA" tvg-logo="https://i.imgur.com/KrIyaMf.png",*************** LATVIA  ***********
 http://
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BYQ1le.png" group-title="LATVIA",Chau TV
+#EXTINF:-1 tvg-id="" tvg-name="Chau TV" tvg-logo="https://i.imgur.com/c4q2PQj.png" group-title="LATVIA",Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ss9Q7uS.png" group-title="LATVIA",Latvijas Radio 1 106.1 FM Latgale
+#EXTINF:-1 tvg-id="" tvg-name="Latvijas Radio 1 (Webradio)" tvg-logo="https://i.imgur.com/hsspORI.png" group-title="LATVIA",Latvijas Radio 1 (Webradio)
 http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTokbjX.png" group-title="LATVIA",Latvijas Radio 3 Klasika
+#EXTINF:-1 tvg-id="" tvg-name="Latvijas Radio 3 Klasika (Webradio)" tvg-logo="https://i.imgur.com/MxAVEYZ.png" group-title="LATVIA",Latvijas Radio 3 Klasika (Webradio)
 http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xe41i1W.png" group-title="LATVIA",LTV1
-https://ff0000.latnet.media/ltv6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDTbDtG.png" group-title="LATVIA",Ren TV Baltic
 http://ott-cdn.ucom.am/s85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="https://i.imgur.com/B4HuyOk.png" group-title="LATVIA",TVNET
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 #EXTINF:-1 tvg-name="*************** ESTONIA  ***********" tvg-logo="https://i.imgur.com/mE9gSDt.png" group-title="ESTONIA",************** ESTONIA  ***********
 https://
 #EXTINF:-1 tvg-id="" tvg-name="ETV+" tvg-logo="https://i.imgur.com/L8fGd9d.png" group-title="ESTONIA",ETV+
@@ -4981,13 +4979,7 @@ https://riigikogu.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Taevas TV 7 " tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="ESTONIA",Taevas TV 7
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="***************** LITHUANIA  ***********" group-title="LITHUANIA" tvg-logo="https://i.imgur.com/t9dFrZw.png",***************** LITHUANIA  ***********
-https://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eesti_Televisioon_Logo.svg/225px-Eesti_Televisioon_Logo.svg.png" group-title="LITHUANIA",ETV
-https://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ETV2_logo.svg/240px-ETV2_logo.svg.png" group-title="LITHUANIA",ETV2
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ETV%2B_logo.png/225px-ETV%2B_logo.png" group-title="LITHUANIA",ETV+
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
+https://
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="LITHUANIA",LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-name="*************** UKRAINE  ***********" group-title="UKRAINE" tvg-logo="https://i.imgur.com/kP0PTbp.png",*************** UKRAINE  ***********
@@ -5245,7 +5237,7 @@ https://aks-we02-cdn.connectmedia.hu/1104/7ddb80b11e6e0d09a9f76204f9acd1d8/60388
 #EXTINF:-1 tvg-id="" tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="HUNGARY",M5 Hungary
 https://c201-node62-cdn.connectmedia.hu/1105/14684cc0a69055f31083b7e129699c7a/60388c26/index.m3u8?v=5i
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC +" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="HUNGARY",MUSIC +
-http://s02.diazol.hu:10192/hls/stream.m3u8
+http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ozdi Varosi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" group-title="HUNGARY",Ozdi Varosi TV
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="HUNGARY",Pannon RTV
@@ -7023,7 +7015,7 @@ https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
 #EXTINF:-1 tvg-name="Bajo Cero TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/aRPmfji.jpg",Bajo Cero TV (BR)
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Baraza Music TV (GR)" tvg-id="Baraza Music TV" group-title="MUSIC" tvg-logo="https://i.imgur.com/djhtmFQ.png",Baraza Music TV (GR)
-https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraza TV Classic Hits (GR)" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Classic Hits (GR)
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baraza TV Greek Music Hits (GR)" tvg-logo="https://i.imgur.com/wUrshuz.png" group-title="MUSIC",Baraza TV Greek Music Hits (GR)
@@ -7046,6 +7038,8 @@ https://rtmp.info/canal38/envivo/playlist.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 tvg-name="Carolina TV (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/eaHPbqd.png",Carolina TV (BR)
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chau TV (LV)" tvg-logo="https://i.imgur.com/c4q2PQj.png" group-title="MUSIC",Chau TV (LV)
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-name="Chill AF (US)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/GyxXMDv.png",Chill AF (US)
 https://10999-1.b.cdn13.com/streams/masters-v3/djset/654.m3u8
 #EXTINF:-1 tvg-name="CMC (US)" tvg-id="CMC 2" group-title="MUSIC" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC 2 (US)
